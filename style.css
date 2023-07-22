@@ -1,0 +1,32 @@
+
+.main{
+    text-align: center;
+    mix-blend-mode:multiply;
+}
+nav{
+    text-align: center;
+}
+.social{
+    height: 35px;
+    width: 35px;
+}
+.logo img{
+    height: 50px;
+    width: 50px;
+}
+.right{
+    position: absolute;
+    right: 0px;
+}
+
+.copyright{
+    text-align: center;
+}
+mark{
+    background-color: black;
+    color: white;
+}
+
+body{
+    background-image: linear-gradient(90deg, #D16BA5 0%, #86A8E7 35%, #5FFBF1 100%);
+}
